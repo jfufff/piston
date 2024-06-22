@@ -16,8 +16,8 @@ need require()
 
   if( events.on(
      events.chunkLoaded()) {
-    console.log("piston: chunk loaded, halting loading for 1.8 secs");
-    setTimeout(events.chunkLoaded(), events.chunkCreation(), 1.8);
+    console.log("piston: chunk loaded, halting loading for 1.5 secs");
+    setTimeout(events.chunkLoaded(), events.chunkCreation(), 1.5);
     return;
   }
   
