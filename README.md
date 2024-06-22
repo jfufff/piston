@@ -6,6 +6,6 @@
 ![badge](https://forthebadge.com/images/badges/license-mit.svg) ![badge](https://forthebadge.com/images/badges/built-with-swag.svg) ![badge](https://forthebadge.com/images/badges/made-with-typescript.svg)\
 \
 Piston is a free and open-source minecraft server plugin manager/software written in TypeScript
-
-
+\
+To get started with piston, set up yourself a SpigotMC server and install the module [ScriptCraft](https://github.com/walterhiggins/ScriptCraft)
 </div>
