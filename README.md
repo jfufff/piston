@@ -2,7 +2,7 @@
   
 ![image](https://github.com/jfufff/piston/assets/160429113/0c4c87f9-bd09-4f4c-885b-86c32b673133)
   
-## ```Piston```
+# Piston
 ![badge](https://forthebadge.com/images/badges/license-mit.svg)
 \
 Piston is a free and open-source minecraft server management plugin/software written in JavaScript
