@@ -1,4 +1,4 @@
-/* com.jfuf.piston.PistonDef */
+/* com.jfuf.piston.Conditions */
 /* author: jfuf @ Kron Studios (https://gihub.com/jfufff) */
 /* date of addition: 6/21/24 */
 
@@ -13,7 +13,7 @@ need require()
     return; 
   } else { return "piston: warn: unknown block update occurence" }
 
-
+ // Optimization for loading
   if( events.on(
      events.chunkLoaded()) {
     console.log("piston: chunk loaded, halting loading for 1.5 secs");
