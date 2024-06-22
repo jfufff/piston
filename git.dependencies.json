@@ -1,5 +1,8 @@
-{ "dependencies":{
+{ 
+  "dependencies":{
 "ts2python":"https://github.com/jecki/ts2python",
 "ScriptCraft":"https://github.com/walterhiggins/ScriptCraft",
-"Spigot":"https://hub.spigotmc.org/stash/projects/SPIGOT"
-} }
+"Spigot":"https://hub.spigotmc.org/stash/projects/SPIGOT",
+"Mineflayer":"https://github.com/PrismarineJS/mineflayer"
+  }
+}
