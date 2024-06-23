@@ -11,5 +11,5 @@ Piston is a free and open-source minecraft server management plugin/software wri
 To get started with piston, set up yourself a SpigotMC server and install the module [ScriptCraft](https://github.com/walterhiggins/ScriptCraft)
 \
 \
-Next you will need to implement piston as a plugin for ScriptCraft, finally, start your spigot server and configure piston to your liking through the use of [Commands](docs/Commands.md)
+Next you will need to implement piston as a plugin for ScriptCraft, finally, start your spigot server and configure piston to your liking through the use of [Commands](docs/Commands.md) and/or [Scripts](https://github.com/walterhiggins/ScriptCraft/blob/development/docs/API-Reference.md)
 </div>
